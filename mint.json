@@ -1,18 +1,18 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Contratos DGM",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
   },
   "favicon": "/favicon.svg",
   "colors": {
-    "primary": "#0D9373",
-    "light": "#07C983",
-    "dark": "#0D9373",
+    "primary": "#e65412",
+    "light": "#e65412",
+    "dark": "#e65412",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#e65412",
+      "to": "#e65412"
     }
   },
   "topbarLinks": [
